@@ -25,7 +25,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
         window.location.href="bank.html";
     }
     else{
-        alert('please aput the valid password');
+        alert('please put a valid password');
     }
      
 })
